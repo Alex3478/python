@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		".wrapper {\r\n    min-height: 100vh;\r\n    display: flex;\r\n    flex-direction: column;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,QAAQ,CAAC;EACL,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;CACzB"
+}

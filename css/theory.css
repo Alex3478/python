@@ -1,0 +1,28 @@
+.text-manual__header {
+  margin-bottom: 30px;
+  font-family: "BebasNeue";
+  letter-spacing: .5px;
+}
+
+.text-manual__title {
+  font-size: 28px;
+  line-height: 1.2;
+  margin-bottom: 5px;
+}
+
+.text-manual__subtitle {
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+.text-manual__doc-section {
+  padding: 20px 0;
+}
+
+.text-manual__section-title {
+  font-family: "BebasNeue";
+  letter-spacing: .5px;
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 10px;
+}

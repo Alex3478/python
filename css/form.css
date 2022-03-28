@@ -1,0 +1,23 @@
+.form-login {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-login__body {
+  max-width: 360px;
+}
+
+.form-login__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-login__body_register {
+  display: none;
+}
+
+.form-login #form-login__switch {
+  display: none;
+}
